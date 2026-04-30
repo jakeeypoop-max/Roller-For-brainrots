@@ -2,12 +2,12 @@ local Config = {
     ServiceId       = 24669,
     PlatoSecret     = "13196169-eda2-434b-a6de-67808530f921",
     Secret          = "poopie",
-    MainScriptURL   = "Link",
+    MainScriptURL   = "https://raw.githubusercontent.com/jakeeypoop-max/Roller-For-brainrots/refs/heads/main/Script.lua",
     ShowYoutube     = false,
     YoutubeURL      = "https://www.youtube.com/channel/UCAlXXV1Hbvf7WbfXARuVtiQ",
     KeyFileName     = "Mykey.txt",
-    OldGuiName      = "",
-    MainGuiName     = "",
+    OldGuiName      = "Jake's hub ",
+    MainGuiName     = "Jake's hub",
     HubName         = "Jake's Hub",
     HubDescription  = "brainrot roller control"
 }
